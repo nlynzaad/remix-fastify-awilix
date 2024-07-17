@@ -6,3 +6,5 @@ node_modules
 server/index.js
 .idea
 .vscode
+/ssl/server.crt
+/ssl/server.key

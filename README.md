@@ -1,6 +1,9 @@
-# Welcome to Remix + Vite!
+# Remix-Fastify-Awilix
+Simple example of a [Remix](https://remix.run/) application using [Vite](https://vitejs.dev), [fastify](https://fastify.dev) and [Awilix](https://github.com/jeffijoe/awilix)
 
-📖 See the [Remix docs](https://remix.run/docs) and the [Remix Vite docs](https://remix.run/docs/en/main/future/vite) for details on supported features.
+The following extensions are used:
+1) To run a Remix application using a fastify server: [remix-fastify](https://github.com/mcansh/remix-fastify)
+2) To attach a scoped awilix container to the fastify request: [fastify-awilix](https://github.com/fastify/fastify-awilix)
 
 ## Development
 
